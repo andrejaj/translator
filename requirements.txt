@@ -1,0 +1,2 @@
+# to run call: pip install -r requirements.txt
+deep-translator==1.11.4
